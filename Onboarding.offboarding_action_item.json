@@ -1,0 +1,48 @@
+[{
+  "_id":"101",
+  "label":"inform_bse_team",
+	"itemDescription": "Inform BSE team about resource release",
+	"status":true
+},
+{
+  "_id":"102",
+  "label":"revoke_access_wm_bays",
+	"itemDescription": "Send out a note to the WM team to revoke access to the Walmart Bays and/or Lab",
+	"status":true
+},
+{
+  "_id":"103",
+"label": "revoke_walmart_ids",
+"itemDescription": "Raise a request to revoke the Walmart IDs",
+"status":true
+},
+{
+	"_id":"104", 
+	"label":"remove_from_vlan",
+	"itemDescription":"Raise a iSolve request to take off associate from Walmart VLAN",
+	"status":true
+},
+{
+	"_id":"105", 
+	"label":"remove_from_dls",
+	"itemDescription":"Ensure that the associate is taken off from every Walmart DLs",
+	"status":true
+},
+{
+	"_id":"106", 
+	"label":"remove_from_kubera",
+	"itemDescription":"Removing access to Kubera Project Site",
+	"status":true
+},
+{
+	"_id":"107", 
+	"label":"return_items",
+	"itemDescription":"Ensure that laptops, mobile phones / SIM card are returned",
+	"status":true
+},
+{
+	"_id":"108", 
+	"label":"update_reporting_manager",
+	"itemDescription":"Ensure that Reporting Manager change is initiated in Orion",
+	"status":true
+}]
